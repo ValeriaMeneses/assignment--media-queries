@@ -211,9 +211,6 @@ h4 {
   h4 {
     color: green; } }
 @media screen and (min-width: 600px) {
-  h4 {
-    color: pink; }
-
   body {
     display: flex;
     flex-wrap: wrap; }
@@ -225,16 +222,6 @@ h4 {
     width: 100%;
     margin-right: 10px; } }
 @media screen and (min-width: 900px) {
-  h4 {
-    color: green; }
-
-  body {
-    display: flex;
-    flex-wrap: wrap; }
-
-  img {
-    width: 100%; }
-
   .item {
     width: 33%; } }
 

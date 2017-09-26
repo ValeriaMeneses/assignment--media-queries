@@ -84,9 +84,6 @@ h4 {
 
 
 @media screen and(min-width:600px){
-  h4 {
-    color: pink;
-  }
   body{
     display: flex;
     flex-wrap: wrap;
@@ -102,21 +99,7 @@ img{
 }
 
 @media screen and(min-width:900px){
-  h4{
-    color:green;
-  }
-  body{
-    display: flex;
-    flex-wrap: wrap;
-  }
-  img{
-    width: 100%;
-  }
   .item{
     width: 33%;
   }
 }
-
-// @media screen and (condition) {
-//   // CSS rules
-// }
